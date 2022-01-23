@@ -12,6 +12,9 @@
     "react-transition-group": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
+  "resolutions": {
+    "mini-css-extract-plugin": "2.4.5"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
