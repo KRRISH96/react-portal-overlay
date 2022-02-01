@@ -1,5 +1,7 @@
 # React Portal Overlay
 
+Implementation code accompanying my blog [Building a modal in React with React Portals](https://blog.logrocket.com/build-modal-with-react-portals/) at Logrocket.
+
 ## Modal without React Portal
 ![Modal without React Portal](/assets/modal-without-react-portal.png)
 
